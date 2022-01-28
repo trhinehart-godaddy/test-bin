@@ -1,0 +1,10 @@
+{
+  "name": "test-bin",
+  "version": "1.0.0",
+  "description": "Example npx binary",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trhinehart-godaddy/test-bin.git"
+  }
+}
